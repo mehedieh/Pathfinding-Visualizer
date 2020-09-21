@@ -4,6 +4,6 @@
 
 ## Not all algorithms are created equal.
 
-[Djikstra](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
+![Djikstra](https://upload.wikimedia.org/wikipedia/commons/5/57/Dijkstra_Animation.gif)
 
 *Dijkstra's Algorithm* (weighted): the father of pathfinding algorithms; guarantees the shortest path
